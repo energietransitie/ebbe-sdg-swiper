@@ -4,8 +4,8 @@
     "app.js.map": "/sdg-swiper/static/js/app.ff58e1f2.chunk.js.map",
     "runtime~app.js": "/sdg-swiper/static/js/runtime~app.617e8902.js",
     "runtime~app.js.map": "/sdg-swiper/static/js/runtime~app.617e8902.js.map",
-    "static/js/2.3d4c13f8.chunk.js": "/sdg-swiper/static/js/2.3d4c13f8.chunk.js",
-    "static/js/2.3d4c13f8.chunk.js.map": "/sdg-swiper/static/js/2.3d4c13f8.chunk.js.map",
+    "static/js/2.c8c648be.chunk.js": "/sdg-swiper/static/js/2.c8c648be.chunk.js",
+    "static/js/2.c8c648be.chunk.js.map": "/sdg-swiper/static/js/2.c8c648be.chunk.js.map",
     "static/js/3.4d668b95.chunk.js": "/sdg-swiper/static/js/3.4d668b95.chunk.js",
     "static/js/3.4d668b95.chunk.js.map": "/sdg-swiper/static/js/3.4d668b95.chunk.js.map",
     "static/js/4.a74206d3.chunk.js": "/sdg-swiper/static/js/4.a74206d3.chunk.js",
@@ -51,7 +51,7 @@
     "locales/nl/translation.json": "/sdg-swiper/locales/nl/translation.json",
     "manifest.json": "/sdg-swiper/manifest.json",
     "serve.json": "/sdg-swiper/serve.json",
-    "static/js/2.3d4c13f8.chunk.js.LICENSE.txt": "/sdg-swiper/static/js/2.3d4c13f8.chunk.js.LICENSE.txt",
+    "static/js/2.c8c648be.chunk.js.LICENSE.txt": "/sdg-swiper/static/js/2.c8c648be.chunk.js.LICENSE.txt",
     "static/js/3.4d668b95.chunk.js.LICENSE.txt": "/sdg-swiper/static/js/3.4d668b95.chunk.js.LICENSE.txt",
     "static/js/4.a74206d3.chunk.js.LICENSE.txt": "/sdg-swiper/static/js/4.a74206d3.chunk.js.LICENSE.txt",
     "static/js/5.f963f137.chunk.js.LICENSE.txt": "/sdg-swiper/static/js/5.f963f137.chunk.js.LICENSE.txt",
@@ -59,7 +59,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.617e8902.js",
-    "static/js/2.3d4c13f8.chunk.js",
+    "static/js/2.c8c648be.chunk.js",
     "static/js/app.ff58e1f2.chunk.js"
   ]
 }
