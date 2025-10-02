@@ -1,17 +1,17 @@
 {
   "files": {
-    "app.js": "/sdg-swiper/static/js/app.be7b287c.chunk.js",
-    "app.js.map": "/sdg-swiper/static/js/app.be7b287c.chunk.js.map",
-    "runtime~app.js": "/sdg-swiper/static/js/runtime~app.33e772ba.js",
-    "runtime~app.js.map": "/sdg-swiper/static/js/runtime~app.33e772ba.js.map",
-    "static/js/2.46cb1978.chunk.js": "/sdg-swiper/static/js/2.46cb1978.chunk.js",
-    "static/js/2.46cb1978.chunk.js.map": "/sdg-swiper/static/js/2.46cb1978.chunk.js.map",
-    "static/js/3.52b79d3f.chunk.js": "/sdg-swiper/static/js/3.52b79d3f.chunk.js",
-    "static/js/3.52b79d3f.chunk.js.map": "/sdg-swiper/static/js/3.52b79d3f.chunk.js.map",
-    "static/js/4.f673e622.chunk.js": "/sdg-swiper/static/js/4.f673e622.chunk.js",
-    "static/js/4.f673e622.chunk.js.map": "/sdg-swiper/static/js/4.f673e622.chunk.js.map",
-    "static/js/5.a1f31bf7.chunk.js": "/sdg-swiper/static/js/5.a1f31bf7.chunk.js",
-    "static/js/5.a1f31bf7.chunk.js.map": "/sdg-swiper/static/js/5.a1f31bf7.chunk.js.map",
+    "app.js": "/sdg-swiper/static/js/app.ff58e1f2.chunk.js",
+    "app.js.map": "/sdg-swiper/static/js/app.ff58e1f2.chunk.js.map",
+    "runtime~app.js": "/sdg-swiper/static/js/runtime~app.617e8902.js",
+    "runtime~app.js.map": "/sdg-swiper/static/js/runtime~app.617e8902.js.map",
+    "static/js/2.3d4c13f8.chunk.js": "/sdg-swiper/static/js/2.3d4c13f8.chunk.js",
+    "static/js/2.3d4c13f8.chunk.js.map": "/sdg-swiper/static/js/2.3d4c13f8.chunk.js.map",
+    "static/js/3.4d668b95.chunk.js": "/sdg-swiper/static/js/3.4d668b95.chunk.js",
+    "static/js/3.4d668b95.chunk.js.map": "/sdg-swiper/static/js/3.4d668b95.chunk.js.map",
+    "static/js/4.a74206d3.chunk.js": "/sdg-swiper/static/js/4.a74206d3.chunk.js",
+    "static/js/4.a74206d3.chunk.js.map": "/sdg-swiper/static/js/4.a74206d3.chunk.js.map",
+    "static/js/5.f963f137.chunk.js": "/sdg-swiper/static/js/5.f963f137.chunk.js",
+    "static/js/5.f963f137.chunk.js.map": "/sdg-swiper/static/js/5.f963f137.chunk.js.map",
     "fonts/AntDesign.ttf": "/sdg-swiper/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/sdg-swiper/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/sdg-swiper/./fonts/Feather.ttf",
@@ -51,15 +51,15 @@
     "locales/nl/translation.json": "/sdg-swiper/locales/nl/translation.json",
     "manifest.json": "/sdg-swiper/manifest.json",
     "serve.json": "/sdg-swiper/serve.json",
-    "static/js/2.46cb1978.chunk.js.LICENSE.txt": "/sdg-swiper/static/js/2.46cb1978.chunk.js.LICENSE.txt",
-    "static/js/3.52b79d3f.chunk.js.LICENSE.txt": "/sdg-swiper/static/js/3.52b79d3f.chunk.js.LICENSE.txt",
-    "static/js/4.f673e622.chunk.js.LICENSE.txt": "/sdg-swiper/static/js/4.f673e622.chunk.js.LICENSE.txt",
-    "static/js/5.a1f31bf7.chunk.js.LICENSE.txt": "/sdg-swiper/static/js/5.a1f31bf7.chunk.js.LICENSE.txt",
+    "static/js/2.3d4c13f8.chunk.js.LICENSE.txt": "/sdg-swiper/static/js/2.3d4c13f8.chunk.js.LICENSE.txt",
+    "static/js/3.4d668b95.chunk.js.LICENSE.txt": "/sdg-swiper/static/js/3.4d668b95.chunk.js.LICENSE.txt",
+    "static/js/4.a74206d3.chunk.js.LICENSE.txt": "/sdg-swiper/static/js/4.a74206d3.chunk.js.LICENSE.txt",
+    "static/js/5.f963f137.chunk.js.LICENSE.txt": "/sdg-swiper/static/js/5.f963f137.chunk.js.LICENSE.txt",
     "static/media/getFetch.cjs": "/sdg-swiper/static/media/getFetch.5fde86e3.cjs"
   },
   "entrypoints": [
-    "static/js/runtime~app.33e772ba.js",
-    "static/js/2.46cb1978.chunk.js",
-    "static/js/app.be7b287c.chunk.js"
+    "static/js/runtime~app.617e8902.js",
+    "static/js/2.3d4c13f8.chunk.js",
+    "static/js/app.ff58e1f2.chunk.js"
   ]
 }
